@@ -33,6 +33,11 @@
 $ npm install
 ```
 
+## Config
+Create .development.env (on root)
+environment variable = MONGO_URI=<sua-mongodb-uri>
+
+
 ## Running the app
 
 ```bash
